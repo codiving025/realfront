@@ -15,7 +15,7 @@ const Header = () => {
              <div className="col-sm-1"></div>
                <div className="col-md-4" >
                <b>   <i id="inner"> You dream it, we find it, </i> </b> <br/>
-                <b>   <i id="inner"> Selling more than just houses, we’re selling dreams. </i> </b>
+                // <b>   <i id="inner"> Selling more than just houses, we’re selling dreams. </i> </b>
              </div>
              {/* <div className="col-sm-1"></div> */}
             <div className="col-sm-4">
